@@ -4,7 +4,7 @@
 
 ## 一行安装
 
-在 Windows PowerShell 中运行。私有仓库需要使用有读取权限的 GitHub 账号完成 Git 认证。
+在 Windows PowerShell 中运行下面一行。
 
 ```powershell
 git clone --depth 1 https://github.com/ZMKC404/feixue-tech-titles.git "$env:USERPROFILE\.agents\skills\feixue-tech-titles"
