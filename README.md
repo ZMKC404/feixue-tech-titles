@@ -14,6 +14,9 @@ git clone --depth 1 https://github.com/ZMKC404/feixue-tech-titles.git "$env:USER
 
 > $feixue-tech-titles 给这篇软件推荐起 6 个公众号标题，飞雪味重一点。素材如下……
 
-## 完整案例
+## 参考资料
 
-[查看 8 组案例](references/examples.md)，每组都包含用户请求、素材、标题取舍和成稿。
+- [关键词与精选标题](references/style-bank.md) · 按 8 种写法整理 40 条原句，可按表格行号回查。
+- [8 组完整案例](references/examples.md) · 每组包含用户请求、素材、标题取舍和成稿。
+- [全量标题索引](references/title-corpus.jsonl) · 1,109 条标题，按原表顺序保留发布时间和行号。
+- [原始工作簿](references/source/feixue-tech-titles.xlsx) · 完整 Excel 原件。
